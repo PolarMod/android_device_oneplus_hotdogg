@@ -18,6 +18,7 @@ DEVICE_PACKAGE_OVERLAYS += \
 AB_OTA_PARTITIONS += \
     odm \
     product \
+    recovery \
     vbmeta_system
 
 # Audio
